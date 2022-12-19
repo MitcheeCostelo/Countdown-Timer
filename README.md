@@ -15,7 +15,7 @@ The Countdown Timer is designed to let users set a time limit and the page will 
 
 ## Images
 ### Example of Program Running
-![Running Example](https://github.com/MitcheeCostelo/Countdown-Timer/blob/main/Finished%20Example.png)
+![Running Example](https://github.com/MitcheeCostelo/Countdown-Timer/blob/main/Running%20Example.png)
 
 ### Example of timer finished
 ![Finished Example](https://github.com/MitcheeCostelo/Countdown-Timer/blob/main/Finished%20Example.png)
