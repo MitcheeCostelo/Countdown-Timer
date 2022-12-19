@@ -12,3 +12,10 @@ The Countdown Timer is designed to let users set a time limit and the page will 
 - Directly change time display instead of having a new window open asking for minutes
 - Allow users to adjust amount of seconds
 - Fix timer so when you reset, it doesn't subtract one second initially off of the original time
+
+## Images
+### Example of Program Running
+![Running Example] (https://github.com/MitcheeCostelo/Countdown-Timer/blob/main/Finished%20Example.png)
+
+### Example of timer finished
+![Finished Example] (https://github.com/MitcheeCostelo/Countdown-Timer/blob/main/Finished%20Example.png)
